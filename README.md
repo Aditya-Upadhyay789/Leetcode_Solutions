@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -12,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -19,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
