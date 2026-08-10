@@ -13,7 +13,7 @@ void moveZeroes(int* nums, int numsSize) {
         
         
     } 
-    k--;
+    k++;
      
     
     
