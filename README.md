@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2460-apply-operations-to-an-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
