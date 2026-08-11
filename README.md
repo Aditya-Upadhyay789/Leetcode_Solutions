@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
