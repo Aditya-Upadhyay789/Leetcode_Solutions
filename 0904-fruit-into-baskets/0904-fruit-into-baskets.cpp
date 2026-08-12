@@ -23,17 +23,18 @@ while(r<n){
     }
     l++;
     }
-    if(mp.size()<=2){
-        len=r-l+1;
-        if(len>maxlen){
-            maxlen=len;
-        }
-        r++;
+    len=r-l+1;
+    if(len>maxlen){
+        maxlen=len;
+    }
+    r++;
 
     }
-}
+
 return maxlen;
-}
+
+    }
+
     
         
 };
