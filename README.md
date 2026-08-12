@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2460-apply-operations-to-an-array](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
