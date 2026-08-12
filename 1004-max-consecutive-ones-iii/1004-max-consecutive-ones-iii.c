@@ -10,7 +10,7 @@ int longestOnes(int* nums, int numsSize, int k) {
         if(nums[r]==0){
             zero++;
         }
-            while(zero>k){
+            if(zero>k){
                 if(nums[l]==0){
                     zero--;
                     
