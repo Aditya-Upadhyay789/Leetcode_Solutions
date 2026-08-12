@@ -24,9 +24,7 @@ while(r<n){
     l++;
     }
     len=r-l+1;
-    if(len>maxlen){
-        maxlen=len;
-    }
+    maxlen=max(maxlen,r-l+1);
     r++;
 
     }
