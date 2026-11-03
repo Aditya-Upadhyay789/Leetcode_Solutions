@@ -72,4 +72,8 @@
 | [0007-reverse-integer](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0507-perfect-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Aditya-Upadhyay789/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
