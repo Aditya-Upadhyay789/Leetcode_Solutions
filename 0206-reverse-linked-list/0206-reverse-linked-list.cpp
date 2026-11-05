@@ -16,24 +16,41 @@ public:
             return head;
         }
 
-        stack <int> st;
+        // stack <int> st;
 
-        ListNode* temp=head;
+        // ListNode* temp=head;
 
-        while(temp!=nullptr){
-            st.push(temp->val);
-            temp=temp->next;
+        // while(temp!=nullptr){
+        //     st.push(temp->val);
+        //     temp=temp->next;
+
+        // }
+
+        // temp=head;
+
+        // while(temp!=nullptr){
+        //     temp->val=st.top();
+        //     st.pop();
+        //     temp=temp->next;
+
+        // }
+
+
+        ListNode* current=head;
+        ListNode* front = nullptr;
+        ListNode* prev = nullptr;
+
+        while(current!=nullptr){
+            front = current-> next;
+            current-> next=prev;
+            prev=current;
+            current=front;
 
         }
 
-        temp=head;
+        head=prev;
 
-        while(temp!=nullptr){
-            temp->val=st.top();
-            st.pop();
-            temp=temp->next;
 
-        }
 
         return head;
     }
